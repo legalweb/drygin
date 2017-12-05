@@ -7,7 +7,7 @@ package middleware
 // ```
 // package main
 // import (
-// 	"legalweb.tech/ossgo/drygin/middleware"
+// 	"github.com/legalweb/drygin/middleware"
 // 	"github.com/gin-gonic/gin"
 // )
 // func main() {
